@@ -2,6 +2,17 @@
 
 Rust学习驿站
 
+- [Rust学习驿站：Rust学习资料（文档、书籍、视频）、Rust博客](#rust学习驿站rust学习资料文档书籍视频rust博客)
+  - [书籍](#书籍)
+    - [入门](#入门)
+    - [进阶](#进阶)
+    - [应用](#应用)
+  - [博客](#博客)
+  - [Youtube](#youtube)
+  - [Buy me a coffee?](#buy-me-a-coffee)
+
+> © 2021 Zhe Wang ( [知乎 - 泛程序员](https://www.zhihu.com/people/wangzhetju) | [wangzhetju@gmail.com](mailto:wangzhetju@gmai.com))
+
 ## 书籍
 
 > 书籍大部分可以在 [Z Library](https://b-ok.cc/) 找到，版权问题，不附带书籍PDF，请购买正版。
@@ -35,3 +46,15 @@ Rust学习驿站
 
 - [Jon Gjengset的频道 - Rust for Rustaceans的作者](https://www.youtube.com/c/JonGjengset)
 
+
+## Buy me a coffee?
+
+It takes time to produce videos, articals, and maintains the repositories.
+Feel free to support me :) thanks.
+
+- [Patreon](https://www.patreon.com/funcoder777)
+- ETH: 0xb5fEE7B6776877bB78C2b7594802C6a09f52D9B7
+- BTC: bc1qrjrffv7aaf5f4f6dydkt4yaukt4297vedd6w6p
+- 支付宝
+
+<img src="https://github.com/wangzhe3224/awesome-systematic-trading/blob/master/assets/IMG_0825.jpg" width="200" height="200" />
