@@ -7,6 +7,7 @@ Rust学习驿站
     - [入门](#入门)
     - [进阶](#进阶)
     - [应用](#应用)
+    - [leetcode in rust 1](https://github.com/netcan/Leetcode-Rust)
   - [博客](#博客)
   - [Youtube](#youtube)
   - [Buy me a coffee?](#buy-me-a-coffee)
