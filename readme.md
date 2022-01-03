@@ -46,10 +46,9 @@ Rust学习驿站
 
 - [Jon Gjengset的频道 - Rust for Rustaceans的作者](https://www.youtube.com/c/JonGjengset)
 
-
 ## Buy me a coffee?
 
-It takes time to produce videos, articals, and maintains the repositories.
+It takes time to produce videos, articles, and maintains the repositories.
 Feel free to support me :) thanks.
 
 - [Patreon](https://www.patreon.com/funcoder777)
