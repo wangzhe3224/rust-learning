@@ -8,7 +8,11 @@
 
 trait 用来做动态派发，generic 用来做静态派发。
 
-
 ## Topics
 
-1. trait 的原理和使用
+### trait 的原理和使用
+
+### 小且给力的Rust库
+
+- [evmap](https://github.com/jonhoo/evmap) - A lock-free, eventually consistent, concurrent multi-value map. 
+- [left-right](https://github.com/jonhoo/left-right) - A lock-free, read-optimized, concurrency primitive. 
