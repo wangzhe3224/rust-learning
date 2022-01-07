@@ -7,7 +7,7 @@ Rust学习驿站
     - [入门](#入门)
     - [进阶](#进阶)
     - [应用](#应用)
-    - [leetcode in rust 1](https://github.com/netcan/Leetcode-Rust)
+  - [中文资源](#中文资源)
   - [博客](#博客)
   - [Youtube](#youtube)
   - [Buy me a coffee?](#buy-me-a-coffee)
@@ -37,6 +37,10 @@ Rust学习驿站
 
 - [Hands-On Data Structures and Algorithms with Rust](https://github.com/PacktPublishing/Hands-On-Data-Structures-and-Algorithms-with-Rust)
 - [Rust Design patterns](https://rust-unofficial.github.io/patterns/intro.html#design-patterns)
+
+## 中文资源
+
+- [Rust 官方文档中文教程](https://rustwiki.org/)
 
 ## 博客
 
