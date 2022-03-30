@@ -21,6 +21,7 @@ Rust学习驿站
 
 ### 入门
 
+- [Rust语言圣经](https://course.rs/about-book.html)
 - [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html#the-rust-programming-language) | [中文](https://kaisery.github.io/trpl-zh-cn/title-page.html)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html#rust-by-example) | [中文](https://github.com/rust-lang-cn/rust-by-example-cn)
 - [The Cargo Book](https://doc.rust-lang.org/cargo/) | [中文](https://github.com/rust-lang-cn/cargo-cn)
@@ -61,8 +62,8 @@ Rust学习驿站
 - [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) | `Python`, `Rust`, `Live Trading` | - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
 - [bTrader](https://github.com/gabriel-milan/btrader) | `Rust` | - Triangle arbitrage trading bot for Binance
 - [crypto-crawler-rs](https://github.com/crypto-crawler/crypto-crawler-rs) | `Rust` | - Crawl orderbook and trade messages from crypto exchanges
-- [cryptotrader-core](https://github.com/monomadic/cryptotrader-core) | `Rust` | - Simple to use Crypto Exchange REST API client in rust. 
-- [openlimits](https://github.com/nash-io/openlimits) | `Rust` | - A Rust high performance cryptocurrency trading API with support for multiple exchanges and language wrappers. 
+- [cryptotrader-core](https://github.com/monomadic/cryptotrader-core) | `Rust` | - Simple to use Crypto Exchange REST API client in rust.
+- [openlimits](https://github.com/nash-io/openlimits) | `Rust` | - A Rust high performance cryptocurrency trading API with support for multiple exchanges and language wrappers.
 - [Ta-lib](https://github.com/CLevasseur/ta-lib-rust) | `Rust` |
 - [ta-rust](https://github.com/greyblake/ta-rs) | `Rust` | - Technical analysis library for Rust language
 - [Tectonicdb](https://github.com/0b01/tectonicdb) | `Rust` | - Tectonicdb is a fast, highly compressed standalone database and streaming protocol for order book ticks.
