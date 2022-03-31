@@ -44,6 +44,8 @@ Rust学习驿站
 
 - [Rust 官方文档中文教程](https://rustwiki.org/)
 - [B栈视频合集](https://space.bilibili.com/414096658/channel/collectiondetail?sid=100561)
+- [Rustt翻译计划，这里有国内最优质、最实时的 Rust 技术文章、学习资料和新闻资讯](https://github.com/studyrs/Rustt)
+- [Awesome Rust](https://github.com/studyrs/fancy-rust)
 
 ## 博客
 
