@@ -50,6 +50,7 @@ Rust学习驿站
 - [Rust编程](https://zhuanlan.zhihu.com/rust-lang)
 - [idiomatic-rust](https://github.com/mre/idiomatic-rust)
 - [Exploring Rust ecosystem](https://github.com/rkudryashov/exploring-rust-ecosystem)
+- [Quantitative Trading](https://markrbest.github.io/)
 
 ## Youtube
 
